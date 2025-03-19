@@ -7,5 +7,5 @@
   "routes": [
     { "src": "/(.*)", "dest": "/api/index.php" }
   ],
-  "installCommand": "composer install --no-dev --optimize-autoloader"
+  "installCommand": "composer install"
 }
